@@ -1,0 +1,2 @@
+python-dotenv           #https://pypi.org/project/python-dotenv/
+imagekitio
